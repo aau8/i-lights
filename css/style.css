@@ -2177,9 +2177,10 @@ img {
 }
 
 .footer {
-  background: var(--dark);
-  padding: 40px 0;
   color: var(--light) !important;
+  background: var(--dark);
+  margin: auto 0 0 0;
+  padding: 40px 0;
 }
 
 .footer a:hover {
